@@ -1,5 +1,3 @@
-# About Me - Vishwajeet
-
 ## Hey there, I'm Vishwajeet! 👋
 
 Welcome to my GitHub profile. I'm thrilled to have you here. Allow me to introduce myself – I'm a passionate senior frontend developer with a knack for crafting captivating and user-friendly web applications. My goal is to create exceptional digital experiences that leave a lasting impact.
