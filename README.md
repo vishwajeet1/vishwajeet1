@@ -1,21 +1,27 @@
-## Hey there, I'm Vishwajeet! 👋
+# Vishwajeet Rai
 
-Welcome to my GitHub profile. I'm thrilled to have you here. Allow me to introduce myself – I'm a passionate senior frontend developer with a knack for crafting captivating and user-friendly web applications. My goal is to create exceptional digital experiences that leave a lasting impact.
+Hi, I'm Vishwajeet Rai, a passionate full-stack developer with over 4 years of experience in building scalable web applications. My expertise lies in React, TypeScript, JavaScript, and Node.js. I've led multiple cross-functional projects, optimized platforms for speed and efficiency, and integrated AI and LLM technologies for automation.
 
-## Tech Stack 🚀
+## 🔧 Technologies & Tools
+- **Frontend:** ReactJS, NextJS, Redux, HTML, Tailwind CSS, Chakra UI, Sass, Material UI
+- **Backend:** Node.js, Express, REST APIs, GraphQL
+- **Languages:** TypeScript, JavaScript
+- **Databases:** MongoDB, PostgreSQL
+- **DevOps & Cloud:** Docker, AWS (EC2, S3), Jenkins, Kubernetes
+- **Tools:** Sentry, Webpack, Babel, Git, CI/CD
 
-![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) ![React.js](https://img.icons8.com/color/48/000000/react-native.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+## 🚀 Projects & Achievements
+- Developed a **multi-tenant mock test platform** for IELTS, SAT, and GRE, onboarding 1,000+ students and increasing efficiency by 40%.
+- Integrated **AI and LLM** technologies for test automation, reducing teacher involvement by 80%.
+- Achieved a **400% improvement in page load speed** using Islands Architecture, code splitting, and tree shaking.
+- Spearheaded a **UI Design System**, ensuring design consistency and reducing development time by 30%.
+- Implemented a **secure authentication system** with multi-tenant support and bearer tokens, enhancing security and user experience.
 
+## 📫 How to reach me
+- [GitHub](https://github.com/vishwajeet1)
+- [LinkedIn](https://linkedin.com/in/vishwajeet-rai-8a2654169)
+- [Email](mailto:vishwajeetrai1996@gmail.com)
 
-## Experience and Projects 💼
+---
 
-Throughout my career, I have worked on numerous projects, ranging from small-scale applications to large enterprise-level solutions. I have collaborated with cross-functional teams, including designers, backend developers, and project managers, to deliver high-quality products. My expertise lies in frontend development, ensuring that the user interface is both visually appealing and functional.
-
-## Contact Me 📩
-
-Are you ready to embark on a groundbreaking project or simply want to connect? I'd be thrilled to hear from you! Reach out through any of the following channels:
-
-- Email: [vishwajeetrai1996@@gmail.com](mailto:vishwajeetrai1996@@gmail.com)
-- LinkedIn: [linkedin.com/in/vishwajeet-rai](https://www.linkedin.com/in/vishwajeet-rai-8a2654169)
-
-Let's join forces, ignite our creativity, and make the web a more awe-inspiring place. Together, we'll push boundaries, break barriers, and create digital experiences that leave a lasting impression. The journey starts now! 🚀
+_"Code is like humor. When you have to explain it, it’s bad."_
